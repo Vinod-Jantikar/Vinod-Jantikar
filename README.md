@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinod-jantikar&show_icons=true&locale=en" alt="vinod-jantikar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinod-jantikar&" alt="vinod-jantikar" /></p>
+
