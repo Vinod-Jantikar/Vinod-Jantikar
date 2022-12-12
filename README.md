@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vinod Jantikar</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<!-- <h3 align="center">A passionate Full Stack Web developer from India</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinod-jantikar&label=Profile%20views&color=0e75b6&style=flat" alt="vinod-jantikar" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/@vinod_jantikar" target="blank"><img src="https://img.shields.io/twitter/follow/@vinod_jantikar?logo=twitter&style=for-the-badge" alt="@vinod_jantikar" /></a> </p> -->
 
-- 🌱 I’m currently learning **ReactJS**
+<p>An aspiring full stack developer with a specialization in 💻 MERN stack from Bidar, Karnataka (India). Keenly interested in problem-solving and making user-centric products, self-motivated and curious. Looking forward to honing my skills in a challenging work environment.</p>
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
-
+- 🌱 I love to code, build things & solve problems.
+- 🤝 I am open to collaborate on any project that is impactful and makes the world a better place.
+- ⚡ In free time, I would love to Play Cricket, Volleyball, and watching Web Series.
+- 💬 Ask me about **React JS, Node JS, ExpressJS, MongoDB, JavaScript, HTML, CSS, TypeScript**
 - 📫 How to reach me **vinodjantikar999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
