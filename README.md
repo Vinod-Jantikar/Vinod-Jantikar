@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/@vinod_jantikar" target="blank"><img src="https://img.shields.io/twitter/follow/@vinod_jantikar?logo=twitter&style=for-the-badge" alt="@vinod_jantikar" /></a> </p> -->
 
-<p>An aspiring full stack developer with a specialization in 💻 MERN stack from Bidar, Karnataka (India). Keenly interested in problem-solving and making user-centric products, self-motivated and curious. Looking forward to honing my skills in a challenging work environment.</p>
+<p>As a budding full-stack developer with one year of experience, I specialize in 💻 MERN stack, hailing from Bidar, Karnataka (India). Passionate about problem-solving and creating user-centric products, I bring self-motivation and curiosity to my work. Eagerly anticipating the opportunity to refine my skills in a challenging work environment, I am committed to continuous growth in the dynamic field of web development.</p>
 
 - 🌱 I love to code, build things & solve problems.
 - 🤝 I am open to collaborate on any project that is impactful and makes the world a better place.
