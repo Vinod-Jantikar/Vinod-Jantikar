@@ -2,9 +2,6 @@
 <!-- <h3 align="center">A passionate Full Stack Web developer from India</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinod-jantikar&label=Profile%20views&color=0e75b6&style=flat" alt="vinod-jantikar" /> </p>
-
-<!-- <p align="left"> <a href="https://twitter.com/@vinod_jantikar" target="blank"><img src="https://img.shields.io/twitter/follow/@vinod_jantikar?logo=twitter&style=for-the-badge" alt="@vinod_jantikar" /></a> </p> -->
 
 <p>As a full-stack developer with two years of experience specializing in the MERN stack, I am passionate about problem-solving and user-centric products. Based in Bidar, Karnataka, India, I excel in MongoDB, Express.js, React, and Node.js, creating robust and scalable web applications. My expertise spans front-end and back-end development, RESTful API design, and responsive interfaces. Driven by self-motivation and curiosity, I am committed to continuous learning and growth. Eager to join a dynamic team, I aim to leverage my skills to develop impactful applications and advance my career in web development.</p>
 
