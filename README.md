@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/@vinod_jantikar" target="blank"><img src="https://img.shields.io/twitter/follow/@vinod_jantikar?logo=twitter&style=for-the-badge" alt="@vinod_jantikar" /></a> </p> -->
 
-<p>As a budding full-stack developer with one year of experience, I specialize in 💻 MERN stack, hailing from Bidar, Karnataka (India). Passionate about problem-solving and creating user-centric products, I bring self-motivation and curiosity to my work. Eagerly anticipating the opportunity to refine my skills in a challenging work environment, I am committed to continuous growth in the dynamic field of web development.</p>
+<p>As a full-stack developer with two years of experience specializing in the MERN stack, I am passionate about problem-solving and user-centric products. Based in Bidar, Karnataka, India, I excel in MongoDB, Express.js, React, and Node.js, creating robust and scalable web applications. My expertise spans front-end and back-end development, RESTful API design, and responsive interfaces. Driven by self-motivation and curiosity, I am committed to continuous learning and growth. Eager to join a dynamic team, I aim to leverage my skills to develop impactful applications and advance my career in web development.</p>
 
 - 🌱 I love to code, build things & solve problems.
 - 🤝 I am open to collaborate on any project that is impactful and makes the world a better place.
