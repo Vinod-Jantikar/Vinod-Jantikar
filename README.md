@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p>As a full-stack developer with two years of experience specializing in the MERN stack, I am passionate about problem-solving and user-centric products. Based in Bidar, Karnataka, India, I excel in MongoDB, Express.js, React, and Node.js, creating robust and scalable web applications. My expertise spans front-end and back-end development, RESTful API design, and responsive interfaces. Driven by self-motivation and curiosity, I am committed to continuous learning and growth. Eager to join a dynamic team, I aim to leverage my skills to develop impactful applications and advance my career in web development.</p>
+<p>As a full-stack developer with 2+ years of experience specializing in the MERN stack, I am passionate about problem-solving and user-centric products. Based in Bidar, Karnataka, India, I excel in MongoDB, Express.js, React, and Node.js, creating robust and scalable web applications. My expertise spans front-end and back-end development, RESTful API design, and responsive interfaces. Driven by self-motivation and curiosity, I am committed to continuous learning and growth. Eager to join a dynamic team, I aim to leverage my skills to develop impactful applications and advance my career in web development.</p>
 
 - 🌱 I love to code, build things & solve problems.
 - 🤝 I am open to collaborate on any project that is impactful and makes the world a better place.
